@@ -62,3 +62,11 @@ program.py
 
 - loop through the file a line at a time
 - don't forget to strip the whitespace from the line before using it
+
+
+## Turning it in
+
+- Make sure tests pass and code works as expected
+- Write your reflection in `reflection.md`
+- Commit your changes: VS Code -> menu -> View -> Source Control -> Enter Commit message -> Click "Commit"
+- Push your changes: VS Code -> menu -> View -> Source Control -> Pu -> Click "Commit"
