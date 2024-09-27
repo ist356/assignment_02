@@ -5,5 +5,5 @@
        "3. Code similarity for each file in the assignment should be at least 50 %",
        "4. The student reflection is acceptable"          
     ],
-   "files" : ["gpa.py", "numbers.py"]
+   "files" : ["packaging.py", "program.py"]
 }
